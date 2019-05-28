@@ -1,0 +1,27 @@
+.hero-container {
+	width: 100%;
+	background-image: url('../../images/header_back-1.jpg');
+	background-size: cover;
+	background-position: center;
+	.hero-content {
+		text-align: center;
+		padding: 50px;
+		max-width: 700px;
+		margin: 0 auto;
+	}
+	.hero-title {
+		font-size: 48px;
+		font-weight: 400;
+	}
+	.here-desc {
+		margin: 30px;
+		font-size: 20px;
+		line-height: 1.75;
+		letter-spacing: 0.00938em;
+		color: rgba(0, 0, 0, 0.54);
+	}
+	.hero-button {
+		text-align: center;
+		padding: 0.875rem 50px 0.875rem 50px;
+	}
+}

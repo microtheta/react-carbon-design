@@ -1,0 +1,25 @@
+.footer-container {
+	width: 100%;
+	text-align: center;
+
+	.subscribe-btn-container {
+		margin-top: 20px;
+
+		#transactional-passive-modal {
+			text-align: left;
+		}
+
+		.bx--modal-content__text-input {
+			margin-top: 20px;
+
+			.bx--text-input__field-wrapper {
+				width: 100%;
+			}
+		}
+
+	}
+	.footer-text {
+		margin-top: 10px;
+		line-height: 1.5;
+	}
+}

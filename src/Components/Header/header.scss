@@ -1,0 +1,38 @@
+.header-container {
+	width: 100%;
+	height: 50px;
+	background: #000;
+	color: #fff;
+	position: relative;
+
+	.leftMenu {
+		width: 50%;
+		float: left;
+	}
+	.rightMenu {
+		width: 50%;
+		padding-right: 25px;
+		float: right;
+	}
+
+	.brand-name {
+		position: absolute;
+    left: 60px;
+    top: 12px;
+    font-size: 20px;
+	}
+
+	.menu-item {
+		margin: 18px 5px;
+		cursor: pointer;
+    display: inline-block;
+    float: right;
+    font-size: 16px;
+    text-decoration: none;
+		color: #7aadff;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+}
