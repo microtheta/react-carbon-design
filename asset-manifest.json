@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-carbon-design/static/css/main.2f624abb.chunk.css",
+    "main.js": "/react-carbon-design/static/js/main.2ad8cf03.chunk.js",
+    "main.js.map": "/react-carbon-design/static/js/main.2ad8cf03.chunk.js.map",
+    "runtime~main.js": "/react-carbon-design/static/js/runtime~main.948f90a4.js",
+    "runtime~main.js.map": "/react-carbon-design/static/js/runtime~main.948f90a4.js.map",
+    "static/css/2.f7363ea8.chunk.css": "/react-carbon-design/static/css/2.f7363ea8.chunk.css",
+    "static/js/2.e9ee54c5.chunk.js": "/react-carbon-design/static/js/2.e9ee54c5.chunk.js",
+    "static/js/2.e9ee54c5.chunk.js.map": "/react-carbon-design/static/js/2.e9ee54c5.chunk.js.map",
+    "index.html": "/react-carbon-design/index.html",
+    "precache-manifest.a6cb792d50f7de6dc0050066cba348b5.js": "/react-carbon-design/precache-manifest.a6cb792d50f7de6dc0050066cba348b5.js",
+    "service-worker.js": "/react-carbon-design/service-worker.js",
+    "static/css/2.f7363ea8.chunk.css.map": "/react-carbon-design/static/css/2.f7363ea8.chunk.css.map",
+    "static/css/main.2f624abb.chunk.css.map": "/react-carbon-design/static/css/main.2f624abb.chunk.css.map",
+    "static/media/hero.scss": "/react-carbon-design/static/media/header_back-1.fc2a7fa8.jpg"
+  }
+}
